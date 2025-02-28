@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for HKU ChatGPT Summary Extension</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #444;
+            margin-top: 25px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .last-updated {
+            color: #666;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for HKU ChatGPT Summary Extension</h1>
+    
+    <p class="last-updated"><strong>Last Updated:</strong> [Current Date]</p>
+
+    <h2>Introduction</h2>
+    <p>The HKU ChatGPT Summary Extension ("we", "our", or "extension") is an unofficial Chrome extension developed for personal interest. This privacy policy explains how we handle your information when you use our extension.</p>
+
+    <h2>Information Collection and Use</h2>
+
+    <h3>API Key Storage</h3>
+    <ul>
+        <li>We store your HKU Azure ChatGPT API key locally in your browser using Chrome's secure storage API</li>
+        <li>Your API key is never transmitted to any servers other than the official HKU Azure ChatGPT service</li>
+        <li>We do not have access to your stored API key</li>
+    </ul>
+
+    <h3>Web Page Content</h3>
+    <ul>
+        <li>We temporarily access the text content of web pages you choose to summarize</li>
+        <li>This content is only processed when you actively request a summary</li>
+        <li>The content is sent directly to the HKU Azure ChatGPT service for summarization</li>
+        <li>We do not store or retain any web page content after processing</li>
+    </ul>
+
+    <h3>Data Transmission</h3>
+    <ul>
+        <li>Data is only transmitted between:
+            <ul>
+                <li>Your browser</li>
+                <li>The official HKU Azure ChatGPT API service (https://api.hku.hk/*)</li>
+            </ul>
+        </li>
+        <li>No data is sent to any third-party services</li>
+    </ul>
+
+    <h2>Data Storage</h2>
+    <ul>
+        <li>We only store:
+            <ul>
+                <li>Your API key (locally in your browser)</li>
+                <li>Basic extension settings (if any)</li>
+            </ul>
+        </li>
+        <li>All storage is local to your browser using Chrome's storage API</li>
+        <li>No data is stored on external servers</li>
+    </ul>
+
+    <h2>Data Security</h2>
+    <ul>
+        <li>We implement standard security measures through Chrome's built-in security features</li>
+        <li>Your API key is stored securely using Chrome's storage API</li>
+        <li>All communications with the HKU API use secure HTTPS connections</li>
+    </ul>
+
+    <h2>Third-Party Services</h2>
+    <ul>
+        <li>We only interact with the HKU Azure ChatGPT API service</li>
+        <li>We do not integrate with any other third-party services</li>
+        <li>We do not use analytics or tracking services</li>
+    </ul>
+
+    <h2>User Rights</h2>
+    <p>You have the right to:</p>
+    <ul>
+        <li>Clear your stored API key at any time</li>
+        <li>Uninstall the extension, which will remove all locally stored data</li>
+        <li>Request information about your stored data (though we only store data locally in your browser)</li>
+    </ul>
+
+    <h2>Changes to This Policy</h2>
+    <p>We may update this privacy policy from time to time. We will notify users of any material changes by updating the "Last Updated" date.</p>
+
+    <h2>Disclaimer</h2>
+    <p>This extension is unofficial and not affiliated with HKU or Microsoft Azure. Use of this extension is at your own risk.</p>
+
+    <h2>Contact</h2>
+    <p>For any questions or concerns about this privacy policy or the extension, please contact us at [Your Contact Information].</p>
+
+    <h2>Additional Notes</h2>
+    <ul>
+        <li>This extension is provided free of charge</li>
+        <li>We do not collect any personal information</li>
+        <li>We do not use cookies</li>
+        <li>We do not track user behavior</li>
+        <li>We do not serve advertisements</li>
+    </ul>
+</body>
+</html>
+
+
